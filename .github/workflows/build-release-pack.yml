@@ -1,0 +1,37 @@
+name: Build and publish resource pack
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-release-pack:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Create build folder
+        run: mkdir -p build
+
+      - name: Build resource pack zip
+        run: |
+          zip -r build/calamitycraft_resources.zip pack.mcmeta pack.png assets
+
+      - name: Delete existing release asset if it exists
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view latest-pack >/dev/null 2>&1 || gh release create latest-pack --title "Latest Resource Pack" --notes "Auto-built resource pack"
+          gh release delete-asset latest-pack calamitycraft_resources.zip -y >/dev/null 2>&1 || true
+
+      - name: Upload zip to GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release upload latest-pack build/calamitycraft_resources.zip --clobber
