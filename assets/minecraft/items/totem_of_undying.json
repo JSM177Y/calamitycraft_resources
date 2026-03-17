@@ -1,0 +1,20 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/totem_of_undying"
+        },
+        "entries": [
+			{ "threshold": 0,"model": {"type": "model","model": "item/totem_of_undying"}},
+			{ "threshold": 1,"model": {"type": "model","model": "item/oshawott/oshawott_sitting_bdmodels"}},
+			{ "threshold": 2,"model": {"type": "model","model": "item/oshawott/oshawott_sleeping_bdmodels"}},
+			{ "threshold": 3,"model": {"type": "model","model": "item/oshawott/oshawott_standing_bdmodels"}},
+			{ "threshold": 4,"model": {"type": "model","model": "item/oshawott/oshawott_shiny_sitting_bdmodels"}},
+			{ "threshold": 5,"model": {"type": "model","model": "item/oshawott/oshawott_shiny_sleeping_bdmodels"}},
+			{ "threshold": 6,"model": {"type": "model","model": "item/oshawott/oshawott_shiny_standing_bdmodels"}},
+			{ "threshold": 7,"model": {"type": "model","model": "item/totem_of_undying"}}
+		]
+	}
+}
