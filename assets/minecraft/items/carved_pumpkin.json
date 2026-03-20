@@ -14,7 +14,10 @@
 			{ "threshold": 4,"model": {"type": "model","model": "item/oshawott/oshawott_shiny_sitting_bdmodels"}},
 			{ "threshold": 5,"model": {"type": "model","model": "item/oshawott/oshawott_shiny_sleeping_bdmodels"}},
 			{ "threshold": 6,"model": {"type": "model","model": "item/oshawott/oshawott_shiny_standing_bdmodels"}},
-			{ "threshold": 7,"model": {"type": "model","model": "block/carved_pumpkin"}}
+			{ "threshold": 7,"model": {"type": "model","model": "item/bee/bee"}},
+			{ "threshold": 8,"model": {"type": "model","model": "item/bee/bee2"}},
+			{ "threshold": 9,"model": {"type": "model","model": "item/custom/pet_rock"}},
+			{ "threshold": 10,"model": {"type": "model","model": "block/carved_pumpkin"}}
 		]
 	}
 }
