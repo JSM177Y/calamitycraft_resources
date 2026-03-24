@@ -3,14 +3,14 @@
   "credit": "Vanilla-safe watcher halo based on original Blockbench layout",
   "parent": "minecraft:item/carved_pumpkin",
   "textures": {
-    "0": "watcher_halo_1",
-    "1": "watcher_halo_2",
-    "2": "watcher_halo_3",
-    "3": "watcher_halo_6",
-    "4": "watcher_halo_7",
-    "5": "watcher_halo_8",
-    "6": "watcher_halo_9",
-    "particle": "watcher_halo_1"
+    "0": "custom/watcher_halo_1",
+    "1": "custom/watcher_halo_2",
+    "2": "custom/watcher_halo_3",
+    "3": "custom/watcher_halo_6",
+    "4": "custom/watcher_halo_7",
+    "5": "custom/watcher_halo_8",
+    "6": "custom/watcher_halo_9",
+    "particle": "custom/watcher_halo_1"
   },
   "elements": [
     {
