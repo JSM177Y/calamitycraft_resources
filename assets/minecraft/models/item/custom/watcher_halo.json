@@ -3,14 +3,14 @@
 	"credit": "Made with Blockbench",
 	"parent": "carved pumpkin",
 	"textures": {
-		"0": "custom/watcher_halo_1",
-		"2": "custom/watcher_halo_2",
-		"3": "custom/watcher_halo_3",
-		"5": "custom/watcher_halo_4",
-		"6": "custom/watcher_halo_5",
-		"7": "custom/watcher_halo_6",
-		"8": "custom/watcher_halo_7",
-		"particle": "custom/watcher_halo_1"
+		"0": "watcher_halo_1",
+		"2": "watcher_halo_2",
+		"3": "watcher_halo_3",
+		"5": "watcher_halo_6",
+		"6": "watcher_halo_7",
+		"7": "watcher_halo_8",
+		"8": "watcher_halo_9",
+		"particle": "watcher_halo_1"
 	},
 	"elements": [
 		{
