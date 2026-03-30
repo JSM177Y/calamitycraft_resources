@@ -9,7 +9,7 @@
         "entries": [
 			{ "threshold": 0,"model": {"type": "model","model": "item/netherite_sword"}},
 			{ "threshold": 1,"model": {"type": "model","model": "item/calamity/horizon"}},
-			{ "threshold": 999,"model": {"type": "model","model": "item/netherite_sword"}}
+			{ "threshold": 2,"model": {"type": "model","model": "item/netherite_sword"}}
 		]
 	}
 }
