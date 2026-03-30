@@ -8,11 +8,7 @@
         },
         "entries": [
 			{ "threshold": 0,"model": {"type": "model","model": "item/netherite_sword"}},
-			{ "threshold": 1,"model": {"type": "model","model": "item/calamity/calamity"}},
-			{ "threshold": 2,"model": {"type": "model","model": "item/oshawott/excalibur"}},
-			{ "threshold": 3,"model": {"type": "model","model": "item/oshawott/hero_sword"}},
-			{ "threshold": 4,"model": {"type": "model","model": "item/oshawott/horizon"}},
-			{ "threshold": 5,"model": {"type": "model","model": "item/oshawott/radiant_foil"}},
+			{ "threshold": 1,"model": {"type": "model","model": "item/calamity/horizon"}},
 			{ "threshold": 999,"model": {"type": "model","model": "item/netherite_sword"}}
 		]
 	}
