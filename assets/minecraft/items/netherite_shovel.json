@@ -6,7 +6,7 @@
     "fallback": { "type": "minecraft:model", "model": "minecraft:item/netherite_shovel" },
     "entries": [
       { "threshold": 1, "model": { "type": "minecraft:model", "model": "minecraft:item/calamity/sunset_shovel" } },
-      { "threshold": 2, "model": { "type": "minecraft:model", "model": "minecraft:item/calamity/cataclysm" } }
+      { "threshold": 2, "model": { "type": "minecraft:model", "model": "minecraft:item/calamity/catastrophe" } }
     ]
   }
 }
