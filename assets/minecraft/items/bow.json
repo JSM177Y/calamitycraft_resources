@@ -38,7 +38,7 @@
     },
     "entries": [
       {
-        "threshold": 1770900,
+        "threshold": 1,
         "model": {
           "type": "minecraft:condition",
           "property": "minecraft:using_item",
