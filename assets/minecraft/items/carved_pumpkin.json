@@ -18,7 +18,7 @@
 			{ "threshold": 8,"model": {"type": "model","model": "item/bee/bee2"}},
 			{ "threshold": 9,"model": {"type": "model","model": "item/custom/pet_rock"}},
 			{ "threshold": 10,"model": {"type": "model","model": "item/custom/watcher_halo"}},
-			{ "threshold": 11,"model": {"type": "model","model": "block/carved_pumpkin"}}
+			{ "threshold": 177,"model": {"type": "model","model": "item/wizard/wizard_hat"}}
 		]
 	}
 }
