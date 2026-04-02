@@ -217,10 +217,30 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-180, 0, 0],
+			"translation": [0, 6, 5.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [180, 0, 0],
+			"translation": [0, 6, 5.25]
+		},
+		"firstperson_righthand": {
+			"translation": [4, 7.5, 0]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0]
+		},
+		"gui": {
+			"rotation": [0, 180, 0]
+		},
 		"head": {
 			"rotation": [27, 0, 0],
 			"translation": [0, 16.3, 6.75],
 			"scale": [2.2, 2.2, 2.5]
+		},
+		"on_shelf": {
+			"rotation": [0, 180, 0]
 		}
 	},
 	"groups": [
