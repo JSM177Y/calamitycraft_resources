@@ -1,6 +1,6 @@
 {
 	"format_version": "1.21.11",
-	"credit": "Made with Blockbench by JSM177Y",
+	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "item/wizard/wizard_hat_purple",
@@ -222,7 +222,7 @@
 			"translation": [0, 6, 5.25]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [180, 0, 0],
+			"rotation": [-180, 0, 0],
 			"translation": [0, 6, 5.25]
 		},
 		"firstperson_righthand": {
@@ -232,7 +232,7 @@
 			"translation": [0, 4.5, 0]
 		},
 		"gui": {
-			"rotation": [0, 180, 0]
+			"rotation": [0, -180, 0]
 		},
 		"head": {
 			"rotation": [27, 0, 0],
@@ -240,7 +240,7 @@
 			"scale": [2.2, 2.2, 2.5]
 		},
 		"on_shelf": {
-			"rotation": [0, 180, 0]
+			"rotation": [0, -180, 0]
 		}
 	},
 	"groups": [
