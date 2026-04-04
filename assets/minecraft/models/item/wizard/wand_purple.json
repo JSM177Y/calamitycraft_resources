@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/wizard/wand_purple",
-		"particle": "item/wizard/wand_purple"
+		"0": "wand_purple",
+		"particle": "wand_purple"
 	},
 	"elements": [
 		{
@@ -400,8 +400,8 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [43, -180, 0],
-			"translation": [0.25, 2, 2.75],
+			"rotation": [30, -180, 0],
+			"translation": [0.25, 4, 2.75],
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"firstperson_righthand": {
