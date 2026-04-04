@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "wand_purple",
-		"particle": "wand_purple"
+		"0": "item/wizard/wand_purple",
+		"particle": "item/wizard/wand_purple"
 	},
 	"elements": [
 		{
