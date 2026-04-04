@@ -111,6 +111,43 @@
             ]
           }
         }
+      },
+
+      {
+        "threshold": 177,
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/wizard/wand_purple"
+          },
+          "on_true": {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:use_duration",
+            "remaining": false,
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/wizard/wand_purple"
+            },
+            "entries": [
+              {
+                "threshold": 13,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "minecraft:item/wizard/wand_purple"
+                }
+              },
+              {
+                "threshold": 18,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "minecraft:item/wizard/wand_purple"
+                }
+              }
+            ]
+          }
+        }
       }
     ]
   }
