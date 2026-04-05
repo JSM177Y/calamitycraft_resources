@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/golden_carrot"
+        },
+        "entries": [
+			{ "threshold": 0,"model": {"type": "model","model": "block/carved_pumpkin"}},
+			{ "threshold": 1,"model": {"type": "model","model": "item/food/ale_mug"}}
+		]
+	}
+}
