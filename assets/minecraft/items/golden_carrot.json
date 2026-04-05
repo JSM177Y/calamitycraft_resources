@@ -1,13 +1,14 @@
 {
     "model": {
-        "type": "range_dispatch",
-        "property": "custom_model_data",
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
         "fallback": {
-            "type": "model",
-            "model": "item/golden_carrot"
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_carrot"
         },
         "entries": [
-			{ "threshold": 0,"model": {"type": "model","model": "block/carved_pumpkin"}},
+			{ "threshold": 0,"model": {"type": "model","model": "item/golden_carrot"}},
 			{ "threshold": 1,"model": {"type": "model","model": "item/food/ale_mug"}}
 		]
 	}
