@@ -1,6 +1,6 @@
 {
 	"format_version": "1.21.11",
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by JSM177Y",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "item/food/ale_mug",
@@ -485,7 +485,7 @@
 			"translation": [0.5, 3.5, 0]
 		},
 		"fixed": {
-			"rotation": [0, 180, 0],
+			"rotation": [0, -180, 0],
 			"translation": [0, 0, -3]
 		}
 	},
