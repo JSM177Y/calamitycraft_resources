@@ -10,6 +10,7 @@
       { "threshold": 3, "model": { "type": "minecraft:model", "model": "minecraft:item/calamity/excalibur" } },
       { "threshold": 4, "model": { "type": "minecraft:model", "model": "minecraft:item/calamity/hero_sword" } },
       { "threshold": 5, "model": { "type": "minecraft:model", "model": "minecraft:item/calamity/radiant_foil" } },
+      { "threshold": 6, "model": { "type": "minecraft:model", "model": "minecraft:item/custom/alter_excalibur" } },
       { "threshold": 10, "model": { "type": "minecraft:model", "model": "minecraft:item/custom/purple_katana" } },
       { "threshold": 98, "model": { "type": "minecraft:model", "model": "minecraft:item/fairy/needle_sword_rue" } },
       { "threshold": 99, "model": { "type": "minecraft:model", "model": "minecraft:item/fairy/needle_sword" } }
