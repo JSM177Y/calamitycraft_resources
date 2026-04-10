@@ -2,35 +2,9 @@
   "model": {
     "type": "minecraft:range_dispatch",
     "property": "minecraft:custom_model_data",
-    "index": 0,
-
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/potion" },
     "entries": [
-      {
-        "threshold": 1,
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/food/ale_mug"
-        }
-      },
-      {
-        "threshold": 2,
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/food/wine_glass"
-        }
-      },
-      {
-        "threshold": 3,
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/food/rum_bottle"
-        }
-      }
-    ],
-
-    "fallback": {
-      "type": "minecraft:special",
-      "model": "minecraft:potion"
-    }
+      { "threshold": 1, "model": { "type": "minecraft:model", "model": "minecraft:item/food/ale_mug" } }
+    ]
   }
 }
