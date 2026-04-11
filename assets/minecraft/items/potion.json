@@ -3,9 +3,9 @@
     "type": "minecraft:range_dispatch",
     "property": "minecraft:custom_model_data",
     "index": 0,
+    "fallback": { "type": "minecraft:model", "model": "minecraft:item/potion" },
     "entries": [
       { "threshold": 1, "model": { "type": "minecraft:model", "model": "minecraft:item/food/ale_mug" } }
-    ],
-    "fallback": { "type": "minecraft:special", "model": "minecraft:potion" }
+    ]
   }
 }
