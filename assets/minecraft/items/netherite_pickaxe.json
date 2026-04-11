@@ -6,7 +6,8 @@
     "fallback": { "type": "minecraft:model", "model": "minecraft:item/netherite_pickaxe" },
     "entries": [
       { "threshold": 1, "model": { "type": "minecraft:model", "model": "minecraft:item/calamity/midnight_pickaxe" } },
-      { "threshold": 2, "model": { "type": "minecraft:model", "model": "minecraft:item/calamity/adversity" } }
+      { "threshold": 2, "model": { "type": "minecraft:model", "model": "minecraft:item/calamity/adversity" } },
+      { "threshold": 3, "model": { "type": "minecraft:model", "model": "minecraft:item/wizard/wizard_pickaxe" } }
     ]
   }
 }
