@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench by JSM177Y",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/food/ale_mug",
-		"particle": "item/food/ale_mug"
+		"0": "item/tavern/ale_mug",
+		"particle": "item/tavern/ale_mug"
 	},
 	"elements": [
 		{

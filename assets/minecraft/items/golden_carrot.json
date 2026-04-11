@@ -8,9 +8,7 @@
             "model": "minecraft:item/golden_carrot"
         },
         "entries": [
-			{ "threshold": 1,"model": {"type": "model","model": "item/food/ale_mug"}},
-            { "threshold": 2,"model": {"type": "model","model": "item/food/cwoissant"}},
-            { "threshold": 3,"model": {"type": "model","model": "item/wizard/fireball"}},
+            { "threshold": 1,"model": {"type": "model","model": "item/food/cwoissant"}},
             { "threshold": 69,"model": {"type": "model","model": "minecraft:item/elytra"}}
 		]
 	}
