@@ -14,6 +14,7 @@
 			{ "threshold": 4,"model": {"type": "model","model": "item/oshawott/oshawott_shiny_sitting_bdmodels"}},
 			{ "threshold": 5,"model": {"type": "model","model": "item/oshawott/oshawott_shiny_sleeping_bdmodels"}},
 			{ "threshold": 6,"model": {"type": "model","model": "item/oshawott/oshawott_shiny_standing_bdmodels"}},
+			{ "threshold": 7,"model": {"type": "model","model": "item/custom/power_star"}},
 			{ "threshold": 10,"model": {"type": "model","model": "item/custom/watcher_halo"}},
 			{ "threshold": 7,"model": {"type": "model","model": "item/totem_of_undying"}}
 		]
