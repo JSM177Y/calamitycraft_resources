@@ -26,6 +26,13 @@
           "type": "minecraft:model",
           "model": "minecraft:item/tavern/fireball"
         }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/iced_coffee"
+        }
       }
     ]
   }
