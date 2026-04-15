@@ -20,6 +20,7 @@
 			{ "threshold": 10,"model": {"type": "model","model": "item/custom/watcher_halo"}},
 			{ "threshold": 11,"model": {"type": "model","model": "item/custom/tiara"}},
 			{ "threshold": 12,"model": {"type": "model","model": "item/custom/power_star"}},
+			{ "threshold": 14,"model": {"type": "model", "model": "item/custom/feather_sword"}},
 			{ "threshold": 176,"model": {"type": "model","model": "item/wizard/wizard_hat"}},
 			{ "threshold": 177,"model": {"type": "model","model": "item/wizard/wizard_hat_purple"}},
 			{ "threshold": 178,"model": {"type": "model","model": "item/wizard/wizard_hat_green"}}
