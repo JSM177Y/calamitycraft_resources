@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench by JSM177Y",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "empty_plastic_cup",
-		"particle": "empty_plastic_cup"
+		"0": "item/custom/empty_plastic_cup",
+		"particle": "item/custom/empty_plastic_cup"
 	},
 	"elements": [
 		{

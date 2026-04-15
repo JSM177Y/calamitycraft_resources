@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench by JSM177Y",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "iced_coffee",
-		"particle": "iced_coffee"
+		"0": "item/custom/iced_coffee",
+		"particle": "item/custom/iced_coffee"
 	},
 	"elements": [
 		{
