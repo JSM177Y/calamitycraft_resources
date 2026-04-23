@@ -12,6 +12,7 @@
       { "threshold": 5, "model": { "type": "minecraft:model", "model": "minecraft:item/calamity/radiant_foil" } },
       { "threshold": 6, "model": { "type": "minecraft:model", "model": "minecraft:item/custom/alter_excalibur" } },
       { "threshold": 10, "model": { "type": "minecraft:model", "model": "minecraft:item/custom/purple_katana" } },
+      { "threshold": 12, "model": { "type": "minecraft:model", "model": "minecraft:item/custom/echo_of_the_abyss" } },
       { "threshold": 13, "model": { "type": "minecraft:model", "model": "minecraft:item/custom/star_wand" } },
       { "threshold": 14, "model": { "type": "minecraft:model", "model": "minecraft:item/custom/pidge_feather" } },
       { "threshold": 98, "model": { "type": "minecraft:model", "model": "minecraft:item/fairy/needle_sword_rue" } },
