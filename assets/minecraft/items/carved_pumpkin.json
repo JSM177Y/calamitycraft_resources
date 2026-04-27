@@ -23,7 +23,9 @@
 			{ "threshold": 14,"model": {"type": "model", "model": "item/custom/pidge_feather"}},
 			{ "threshold": 176,"model": {"type": "model","model": "item/wizard/wizard_hat"}},
 			{ "threshold": 177,"model": {"type": "model","model": "item/wizard/wizard_hat_purple"}},
-			{ "threshold": 178,"model": {"type": "model","model": "item/wizard/wizard_hat_green"}}
+			{ "threshold": 178,"model": {"type": "model","model": "item/wizard/wizard_hat_green"}},
+			{ "threshold": 603,"model": {"type": "model","model": "item/trophy/bridge_trophy_diamond"}}
+
 		]
 	}
 }
