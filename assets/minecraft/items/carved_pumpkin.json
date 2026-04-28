@@ -26,9 +26,10 @@
 			{ "threshold": 178,"model": {"type": "model","model": "item/wizard/wizard_hat_green"}},
 
 
-			{ "threshold": 601,"model": {"type": "model","model": "item/trophy/bridge_trophy_iron"}},
-			{ "threshold": 602,"model": {"type": "model","model": "item/trophy/bridge_trophy_gold"}},
-			{ "threshold": 603,"model": {"type": "model","model": "item/trophy/bridge_trophy_diamond"}}
+			{ "threshold": 601,"model": {"type": "model","model": "item/trophy/bridge_trophy_copper"}},
+			{ "threshold": 602,"model": {"type": "model","model": "item/trophy/bridge_trophy_iron"}},
+			{ "threshold": 603,"model": {"type": "model","model": "item/trophy/bridge_trophy_gold"}},
+			{ "threshold": 604,"model": {"type": "model","model": "item/trophy/bridge_trophy_diamond"}}
 
 		]
 	}
